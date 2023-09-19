@@ -22,6 +22,5 @@ def subtract_route(first, second):  # put application's code here
 def multiplyFunc(first, second):  # put application's code here
     return int(first) * int(second)
 
-
 if __name__ == '__main__':
     app.run()
